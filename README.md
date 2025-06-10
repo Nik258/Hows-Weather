@@ -1,2 +1,20 @@
-# Weather-App
-A weather app built using HTML, CSS, and JavaScript, integrating the OpenWeatherMap API to display real-time weather data. It allows users to input a city name or use geolocation to get details like temperature, humidity, and wind speed. The app features a clean, responsive design and includes error handling for seamless user interaction.
+🌤️ Weather App
+A responsive and user-friendly Weather Application built using HTML, CSS, and JavaScript. This app integrates the OpenWeatherMap API to fetch and display real-time weather data.
+
+🔍 Features
+🌍 Search by city name or use geolocation to get local weather
+
+🌡️ Displays key data: temperature, humidity, wind speed, and weather conditions
+
+📱 Responsive design for mobile, tablet, and desktop
+
+⚠️ Includes error handling for invalid city names and network issues
+
+📦 Technologies Used
+HTML5
+
+CSS3
+
+JavaScript (Vanilla)
+
+OpenWeatherMap API
